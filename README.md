@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheFauxDreamer
 - 👀 I’m interested in Gaming, Creating, & Designing.
 - 🌱 I’m currently learning HTML, CSS, JS?, and backend stuff?
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on here I guess. Maybe Twitter?
 
 <!---
