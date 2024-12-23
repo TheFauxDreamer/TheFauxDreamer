@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TheFauxDreamer
-- 👀 I’m interested in Gaming, Creating, & Designing.
+- 👀 I’m interested in Gaming, Creating, & Designing
 - 🌱 I’m currently learning HTML, CSS, JS, and other stuff like Swift
 
 <!---
