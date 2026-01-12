@@ -1,6 +1,7 @@
 - 👋 Hi, I’m TheFauxDreamer
-- 👀 I’m interested in Gaming, Creating, & Designing
-- 🌱 I’m currently learning HTML, CSS, JS, and other stuff like Swift
+- 👀 I’m interested in Gaming, Creating, & "Designing"
+- 🌱 I’m currently learning HTML, CSS, JS, and maybe stuff like Swift
+- 🔨 I'm usually creating little tools for myself or to help at work
 
 It's all just for a bit of fun or to make my life (and hopefully others’) easier
 
